@@ -22,3 +22,5 @@ In the 02_eda folder, you can find a jupyter notebook with the following EDA met
  
  ## Media Folder:
  The media folder contains: (1)matplotlib sentiment analysis graph for each album (2)common term analysis for each album (3) 2 tableu charts (4) Spotify 2019 summary graphic
+ 
+ A full analysis is on my blog:  https://medium.com/@briannalytle7/using-natural-language-processing-to-analyze-spotify-2019-top-global-artists-e5449d8b5133
